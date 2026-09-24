@@ -28,4 +28,5 @@ int main()
 
  cout << "Developed by: Соханська Вікторія" << endl;
  cout << "Second development branch" << endl;
+ cout << "Local change" << endl;
 }
