@@ -25,4 +25,8 @@ int main()
  cout << "z2 = " << z2 << endl;
  cin.get();
  return 0;
+
+ cout << "Developed by: Соханська Вікторія" << endl;
+ cout << "Second development branch" << endl;
+ cout << "Local change" << endl;
 }
